@@ -66,7 +66,7 @@ def uniform_bubble_distortion(image, num_bubbles=16, selected_fraction=0.5, min_
 
 # Streamlit app
 def main():
-    st.title("Bubble Distortion Web App")
+    st.title("🦀Yengec Web App 🦀")
     st.write("Upload an image and apply a fun bubble distortion effect!")
 
     # File uploader
